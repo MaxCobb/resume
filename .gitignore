@@ -1,0 +1,19 @@
+.claude/
+.vscode/
+build/
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+.DS_Store
+参考资料/
+*.synctex(busy)
+
+# Generated documents and private local data
+*.pdf
+master_profile.json
+.env
+.env.*
+!.env.example
